@@ -4,4 +4,5 @@ This is the open source code for the paper "MTDF: A Multi-Task-based X-ray Weld 
 We will release our code and multi-task datasets soon.
 
 
-<img width="612" alt="模型框架" src="https://github.com/user-attachments/assets/d4f123d7-a21c-4f21-9c23-65c39121b4d7">
+<img width="612" alt="模型框架3" src="https://github.com/user-attachments/assets/b4662317-f19a-4bef-ba18-de1276798606">
+
