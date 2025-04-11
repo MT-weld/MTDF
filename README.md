@@ -2,10 +2,15 @@
 # Title: MTDF: A Multi-Task-based X-ray Weld Image Detection Framework via State Space Model
 This is the open source code for the paper "MTDF: A Multi-Task-based X-ray Weld Image Detection Framework via State Space Model" submitted to Automation in Construction. 
 
-We have released our code and multi-task datasets soon.
+We have released our multi-task datasets soon.
+
+# Supplementary material
+You can directly click on the link to watch our video. Thank you for your watching.
+[BaiduYun Drive](https://pan.baidu.com/s/1XbtjL58-aiNg1DxeQo6hmQ?pwd=wm4e) (code: wm4e)
+# SDL/WES/DIS Dataset
+Datasets  can be found at [BaiduYun Drive](https://pan.baidu.com/s/1XbtjL58-aiNg1DxeQo6hmQ?pwd=wm4e) (code: wm4e)
 
 # system
-
 
 <img width="698" alt="MTDF_系统_Elsevier" src="https://github.com/user-attachments/assets/e42f0cab-34c5-4c80-98a1-d40a740894a5" />
 
@@ -16,12 +21,6 @@ We have released our code and multi-task datasets soon.
 <img width="615" alt="模型框架_MTDF_Elsevier_gai" src="https://github.com/user-attachments/assets/639e0942-49a8-44ff-89c2-bf09e3f9274a" />
 
 
-
-# Supplementary material
-You can directly click on the link to watch our video. Thank you for your watching.
-
-# SDL/WES/DIS Dataset
-Datasets  can be found at [BaiduYun Drive](https://pan.baidu.com/s/1XbtjL58-aiNg1DxeQo6hmQ?pwd=wm4e) (code: wm4e)
 # Main results
 The main experimental results are provided in [BaiduYun Drive](https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho) (code: w4ho)
 
