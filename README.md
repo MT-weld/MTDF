@@ -44,13 +44,11 @@ The main experimental results are provided in [MTDF_Results](https://pan.baidu.c
 
 
 # Training
-1. Download the pre-trained model VMamba-S [BaiduYun Drive](https://pan.baidu.com/s/1cIX3ruaQqEG6jgb9yCWDqg) (code: 6686)
-2. Modify the configuration in `main.py`
-3. Run `python main.py` to start training
-# Testing
-1. Modify the configuration in `main.py` and `utils.py`
-2. Run `python main.py` to start testing
+We will make our code public soon.
+1. Download the pre-trained model [VMamba-S]([https://pan.baidu.com/s/1cIX3ruaQqEG6jgb9yCWDqg](https://github.com/MzeroMiko/VMamba)
+2. Modify the configuration in `train.py`
+3. Run `python train.py` to start training
 
-This paper improves and innovates on the basis of RCN.
+
 
 
