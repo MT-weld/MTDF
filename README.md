@@ -5,12 +5,11 @@ This is the open source code for the paper "MTDF: A Multi-Task-based X-ray Weld 
 We have released our multi-task datasets soon.
 
 # Supplementary material of Demo Video
+To provide readers with a clearer understanding of the spiral steel pipe production and defect detection process, we have included a detailed explanatory video.
 You can directly click on the link [YouTube](https://youtu.be/vKmVoBKwP0Q) to watch our video. Thank you for your watching.
 This is a demonstration video of MTDF method in engineering practice. We instantiate MTDF framework in the hardware platform and the constructed intelligent software. 
 The proposed framework demonstrates measurable superiority over conventional manual inspection in practical deployment scenarios.  
 This implementation significantly enhances the objectivity of inspection procedures.  
-
-
 Future research directions prioritize the deployment of this software framework within practical edge computing infrastructure, constituting a critical focus of our ongoing investigations.
 # The other Ongoing Plans
 Furthermore, a QR code tracing module is currently under development within the software ecosystem, designed to facilitate more secure and efficient quality control processes.  Specifically, this innovative module enables the generation of concise digital inspection reports when scanning QR codes affixed to individual steel pipes.  These comprehensive reports document critical quality parameters including: 1) quantitative analysis and categorical classification of manufacturing defects;  2) temporal records of defect identification;  and 3) traceable accountability through identification of responsible inspection personnel.  This dual-component system architecture establishes an auditable quality assurance mechanism while optimizing operational workflow efficiency.
@@ -22,18 +21,30 @@ Datasets  can be found at [BaiduYun Drive](https://pan.baidu.com/s/1XbtjL58-aiNg
 
 <img width="698" alt="MTDF_系统_Elsevier" src="https://github.com/user-attachments/assets/e42f0cab-34c5-4c80-98a1-d40a740894a5" />
 
-
 # Framework
-
 
 <img width="615" alt="模型框架_MTDF_Elsevier_gai" src="https://github.com/user-attachments/assets/639e0942-49a8-44ff-89c2-bf09e3f9274a" />
 
 
 # Main results
-The main experimental results are provided in [BaiduYun Drive](https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho) (code: w4ho)
+The main experimental results are provided in [MTDF_Results](https://pan.baidu.com/s/1o0zEplwmF3jEZj8ghe14Wg?pwd=erui) (code: erui)
+
+
+
+# User interface
+![image](https://github.com/cuiwq777/TRDM/assets/154526698/8ba32b78-daa8-4d96-938e-cd9db82515b6)
+
+# Demo of User interface
+![ezgif com-video-to-gif-converted (3)](https://github.com/cuiwq777/TRDM/assets/154526698/0a1213c3-5744-46c5-a2a7-6e7302359a0c)
+
+# Demo of the inspection process
+![ezgif com-video-to-gif-converted (4)](https://github.com/cuiwq777/TRDM/assets/154526698/2c2e5eab-8e9c-4ffe-943a-fc65c5512635)
+
+![ezgif com-video-to-gif-converted (5)](https://github.com/cuiwq777/TRDM/assets/154526698/d51f12da-204e-4e10-b900-c5e48b4c1940)
+
 
 # Training
-1. Download the pre-trained model Swin-T [BaiduYun Drive](https://pan.baidu.com/s/1cIX3ruaQqEG6jgb9yCWDqg) (code: 6686)
+1. Download the pre-trained model VMamba-S [BaiduYun Drive](https://pan.baidu.com/s/1cIX3ruaQqEG6jgb9yCWDqg) (code: 6686)
 2. Modify the configuration in `main.py`
 3. Run `python main.py` to start training
 # Testing
