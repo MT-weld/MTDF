@@ -11,7 +11,10 @@ This is a demonstration video of MTDF method in engineering practice. We instant
 The proposed framework demonstrates measurable superiority over conventional manual inspection in practical deployment scenarios.  
 Future research directions prioritize the deployment of this software framework within practical edge computing infrastructure, constituting a critical focus of our ongoing investigations.
 # Supplementary material of Demo Video (Transmission Device)
+We demonstrate the real-time detection process of spiral weld defects.  The video can be viewed in the Youtube [Real-time Detection]( https://youtu.be/CEZ-Yzh1kBM). The left panel of the interface displays how the transmission system conveys the steel pipe with circumferential and radial movements during inspection.  Simultaneously, the right panel shows how inspectors manually monitor weld defects in real time throughout the process.
+
 Due to the presence of radioactivity in the testing process, we can only take photos of the returned process of the tested steel pipe in the NDT room after the testing process. The video can be viewed in the Youtube [Transmission Device](https://youtu.be/77YTBS7kYqM).Thank you for your watching. 
+
 # Supplementary material of Demo Video (X-ray Emitter)
 To better understand the acquisition principle, we recorded the actual video of the X-ray emission source and the receiver board. You can directly click on the link [X-ray Emitter](https://youtu.be/0UJoFMqeVMY) to watch our video.  A mechanical scribing device integrated with the detector housing is mounted next to the receiver plate, which makes an actual symbol marking on the steel tube surface when a defect is detected.  This synchronous defect marking protocol enhances traceability while maintaining the continuity of uninterrupted inspection.
 # The other Ongoing Plans
