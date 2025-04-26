@@ -32,26 +32,11 @@ The data are used for academic purposes only.
 
 <img width="615" alt="模型框架_MTDF_Elsevier_gai" src="https://github.com/user-attachments/assets/639e0942-49a8-44ff-89c2-bf09e3f9274a" />
 
+# Code
+Our code is available at  [MTDF](https://pan.baidu.com/s/1FmkXgNJ7eM7EQ566X4JHXQ?pwd=bq3x) (code: bq3x)
 
 # Main results
 The main experimental results are provided in [MTDF_Results](https://pan.baidu.com/s/1o0zEplwmF3jEZj8ghe14Wg?pwd=erui) (code: erui)
-
-
-
-# User interface
-![image](https://github.com/cuiwq777/TRDM/assets/154526698/8ba32b78-daa8-4d96-938e-cd9db82515b6)
-
-# Demo of User interface
-![ezgif com-video-to-gif-converted (3)](https://github.com/cuiwq777/TRDM/assets/154526698/0a1213c3-5744-46c5-a2a7-6e7302359a0c)
-
-# Demo of the inspection process
-![ezgif com-video-to-gif-converted (4)](https://github.com/cuiwq777/TRDM/assets/154526698/2c2e5eab-8e9c-4ffe-943a-fc65c5512635)
-
-![ezgif com-video-to-gif-converted (5)](https://github.com/cuiwq777/TRDM/assets/154526698/d51f12da-204e-4e10-b900-c5e48b4c1940)
-
-
-# Code
-Our code is available at 
 
 ## 0. Main Environments
 ```bash
@@ -70,10 +55,24 @@ pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 The .whl files of causal_conv1d and mamba_ssm could be found here. {[Baidu](https://pan.baidu.com/s/1Tibn8Xh4FMwj0ths8Ufazw?pwd=uu5k)}
 
 # Training
-
 1. Download the pre-trained model [VMamba-S]([https://pan.baidu.com/s/1cIX3ruaQqEG6jgb9yCWDqg](https://github.com/MzeroMiko/VMamba)
 2. Modify the configuration in `train.py`
 3. Run `python train.py` to start training
+
+
+# User interface
+![image](https://github.com/cuiwq777/TRDM/assets/154526698/8ba32b78-daa8-4d96-938e-cd9db82515b6)
+
+# Demo of User interface
+![ezgif com-video-to-gif-converted (3)](https://github.com/cuiwq777/TRDM/assets/154526698/0a1213c3-5744-46c5-a2a7-6e7302359a0c)
+
+# Demo of the inspection process
+![ezgif com-video-to-gif-converted (4)](https://github.com/cuiwq777/TRDM/assets/154526698/2c2e5eab-8e9c-4ffe-943a-fc65c5512635)
+
+![ezgif com-video-to-gif-converted (5)](https://github.com/cuiwq777/TRDM/assets/154526698/d51f12da-204e-4e10-b900-c5e48b4c1940)
+
+
+
 
 
 
