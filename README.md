@@ -2,7 +2,7 @@
 # Title: MTDF: A Multi-Task-based X-ray Weld Image Detection Framework via State Space Model
 This is the open source code for the paper "MTDF: A Multi-Task-based X-ray Weld Image Detection Framework via State Space Model" submitted to Automation in Construction. 
 
-We have released our multi-task datasets soon.
+We have released our multi-task datasets.  Supplementary material of the revised manuscript can be viewed on  [YouTube](https://youtu.be/F0Z5kD4nh2E).
 
 # Supplementary material of Demo Video (Inspection Process)
 To provide readers with a clearer understanding of the spiral steel pipe production and defect detection process, we have included a demonstration video.
